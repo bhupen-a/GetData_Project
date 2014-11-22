@@ -3,8 +3,8 @@ Getting and Cleaning Data Course Project
 
 This repository contains the project submission files for peer review for Getting and Cleaning Data class.
 
-Files
------
+Files in repository
+-------------------
 * run_analysis.R: Main source code file for the project.
 * helper.R: Code file that contains all the helper functions.
 * CodeBook.MD: The code book explaining the variables, data, transformations to clean up the data and form the output file.
