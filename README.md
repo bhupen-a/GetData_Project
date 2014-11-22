@@ -5,10 +5,10 @@ This repository contains the project submission files for peer review for Gettin
 
 Project Instructions
 --------------------
-Download run_analysis.R & helper.R in the working directory.
-Run "run_analysis.R" by using the source command as follows: - source("run_analysis.R")
-The code shall download the zip file and unzip and create the necessary files in your working directory if no files are found. There is no need to manually download the file and create the folders.
-The code shall generate the tiny_data.txt in your working directory. This file is same as what is submitted as part of the project submission.
+1. Download run_analysis.R & helper.R in the working directory.
+2. Run "run_analysis.R" by using the source command as follows: - source("run_analysis.R")
+3. The code shall download the zip file and unzip and create the necessary files in your working directory if no files are found. There is no need to manually download the file and create the folders.
+4. The code shall generate the tiny_data.txt in your working directory. This file is same as what is submitted as part of the project submission.
 
 Code Book
 ---------
